@@ -1,6 +1,6 @@
-package exercises.ex5;
+package prw2.exercises.ex5;
 
-import exercises.ex1.Printer;
+import prw2.exercises.ex1.Printer;
 
 public class MagazineApplication {
     public static void main(String[] args) {

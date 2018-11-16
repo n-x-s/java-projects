@@ -1,15 +1,15 @@
-package exercises.ex5;
+package prw2.exercises.ex5;
 
-import exercises.ex1.Article;
+import prw2.exercises.ex1.Article;
 
 public class Editor {
 
     Magazine writeMagazine() {
         Magazine magazine = new Magazine("Favorite Albums");
 
-        magazine.add(new Article("Flowerboy", "flowers and stuff"));
-        magazine.add(new Article("SYRE", "Story of a Sunset"));
-        magazine.add(new Article("ONEPOINTFIVE", "strange things"));
+        magazine.add(new Article("Glory Sound Prep", "Jon Bellion"));
+        magazine.add(new Article("SYRE", "Jaden Smith"));
+        magazine.add(new Article("ONEPOINTFIVE", "Aminé"));
 
         return magazine;
 

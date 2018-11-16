@@ -1,4 +1,4 @@
-package exercises.ex3;
+package prw2.exercises.ex3;
 
 public class Derek {
     private Tool tool;

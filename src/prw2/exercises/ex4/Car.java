@@ -1,4 +1,4 @@
-package exercises.ex4;
+package prw2.exercises.ex4;
 
 public class Car {
     private String brand;

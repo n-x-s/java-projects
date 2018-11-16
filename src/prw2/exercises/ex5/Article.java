@@ -1,3 +1,0 @@
-package exercises.ex5;
-
-

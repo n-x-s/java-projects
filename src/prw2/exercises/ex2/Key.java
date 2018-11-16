@@ -1,4 +1,4 @@
-package exercises.ex2;
+package prw2.exercises.ex2;
 
 public class Key {
 

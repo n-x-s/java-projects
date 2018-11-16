@@ -1,6 +1,6 @@
-package exercises.ex1;
+package prw2.exercises.ex1;
 
-import exercises.ex5.Magazine;
+import prw2.exercises.ex5.Magazine;
 
 import java.util.List;
 

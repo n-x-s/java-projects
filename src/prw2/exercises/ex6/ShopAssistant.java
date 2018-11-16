@@ -1,6 +1,6 @@
-package exercises.ex6;
+package prw2.exercises.ex6;
 
-import exercises.ex3.Tool;
+import prw2.exercises.ex3.Tool;
 
 import java.util.List;
 

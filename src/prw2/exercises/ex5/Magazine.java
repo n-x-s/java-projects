@@ -1,5 +1,5 @@
-package exercises.ex5;
-import exercises.ex1.Article;
+package prw2.exercises.ex5;
+import prw2.exercises.ex1.Article;
 
 import java.util.ArrayList;
 import java.util.List;
