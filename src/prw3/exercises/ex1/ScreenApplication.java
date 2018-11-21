@@ -1,0 +1,11 @@
+package prw3.exercises.ex1;
+
+public class ScreenApplication {
+    public static void main(String[] args) {
+        Screen screen = new Screen();
+        Customer karl = new Customer("Karl", "economic");
+        Customer jane = new Customer("Jane", "business");
+        screen.displayCustomerName(karl);
+        screen.displayCustomerName(jane);
+    }
+}
