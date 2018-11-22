@@ -5,7 +5,7 @@ public class ScreenApplication {
         Screen screen = new Screen();
         Customer karl = new Customer("Karl", "economic");
         Customer jane = new Customer("Jane", "business");
-        screen.displayCustomerName(karl);
-        screen.displayCustomerName(jane);
+        screen.display(karl);
+        screen.display(jane);
     }
 }

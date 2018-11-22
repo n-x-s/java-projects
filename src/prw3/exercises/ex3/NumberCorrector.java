@@ -8,7 +8,6 @@ public class NumberCorrector {
         number = Math.floor(number);
 
         int correctNumber = number.intValue();
-        System.out.print(correctNumber);
         return correctNumber;
     }
 
